@@ -1,3 +1,0 @@
-# 100x-Mod total war
-
-para mi salud mental de no repertir esto cada rato que se actualiza...
