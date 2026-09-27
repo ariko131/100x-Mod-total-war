@@ -1,2 +1,3 @@
-# 100x-Mod-total-war
-doblado por Candiani Dubbing Studios xddd
+# 100x-Mod total war
+
+para mi salud mental de no repertir esto cada rato que se actualiza...
