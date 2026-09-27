@@ -1,0 +1,10 @@
+{
+    "name": "100x Mod total war",
+    "author": "ariko131",
+    "version": "1.0.0",
+    "uniques": [
+        "Mod is not multiplayer compatible"
+    ],
+    "isBaseRuleset": false,
+    "modUrl": "https://github.com/ariko131/100x-Mod-total-war"
+}
